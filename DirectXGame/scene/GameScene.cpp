@@ -2,6 +2,8 @@
 #include "TextureManager.h"
 #include <cassert>
 
+// KamataEngine 20231013
+
 GameScene::GameScene() {}
 
 GameScene::~GameScene() {}
